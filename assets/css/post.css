@@ -337,7 +337,8 @@ html, body, .summer-post-container, .summer-post-header {
     width: 100%;
     height: 100%;
     z-index: 2;
-    background: rgba(255, 255, 255, 0.85); }
+  
+     }
   @media only screen and (min-width: 40.063em) {
     .summer-author-info {
       padding-top: 5rem;
@@ -380,7 +381,7 @@ html, body, .summer-post-container, .summer-post-header {
       .summer-author-info .summer-post-author > p a {
         color: #e51843; }
     .summer-author-info .summer-post-author .summer-post-author-avatar {
-      width: 12.5rem;
+      width: 13.5rem;
       height: 12.5rem;
       border-radius: 50%;
       float: none;
